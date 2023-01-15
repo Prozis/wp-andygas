@@ -1,0 +1,11 @@
+/*
+Theme Name: Andygas (Period child)
+Template: period
+
+Description: Дочерняя тема для темы twentyfifteen
+Author: Andy Proz
+Version: 1.0
+*/
+
+/* импортируем стили родительской темы */
+@import url("../period/style.css");

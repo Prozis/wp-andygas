@@ -1,0 +1,11 @@
+/*
+Theme Name: Zehom (Nisarg child)
+Template: nisarg
+
+Description: Дочерняя тема для темы Nisarg
+Author: Andy Proz
+Version: 1.0
+*/
+
+/* импортируем стили родительской темы */
+@import url("../nisarg/style.css");
